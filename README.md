@@ -1,7 +1,7 @@
 
 
 <div>
-  <p align="center"> Olá!!:wave: Meu nome é <a href="https://www.linkedin.com/in/skarlet-campos/"><i>Skarlet Campos</i></a> e eu estudo Análise e desenvolvimento de sistemas, com foco em desenvolvimento Front End </i></a>.:computer: :nerd_face:</p>
+  <p align="center"> Olá!!:wave: Meu nome é <a href="https://www.linkedin.com/in/skarlet-campos/"><i>Skarlet Campos</i></a> e eu estudo Análise e desenvolvimento de sistemas, com foco em <i> desenvolvimento Front End </i></a>.:computer: :nerd_face:</p>
   <p align="center"> Apaixonada por tecnologia e inovação:hearts: :bulb:
   </a><br>
 </div>
